@@ -1,6 +1,7 @@
 {
-  "products": [
-    { "id": 1, "name": "Scarpe sportive", "price": 49.99 },
-    { "id": 2, "name": "Maglietta retail", "price": 19.99 }
-  ]
+    "products": [
+        {"id": 1, "name": "Scarpe sportive", "price": 49.99},
+        {"id": 2, "name": "Maglietta retail", "price": 19.99},
+        {"id": 3, "name": "Cappello", "price": 7.99}
+    ]
 }
